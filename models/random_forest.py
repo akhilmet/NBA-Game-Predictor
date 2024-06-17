@@ -2,7 +2,7 @@
 A random forest classifier for predicting the outcome of NBA games.
 
 @author: Akhil Metukuru
-Created: 5-27-24
+Created: 5-28-24
 """
 import joblib
 import json
